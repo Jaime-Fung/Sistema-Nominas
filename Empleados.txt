@@ -1,0 +1,2 @@
+2,Jaime,Fung,Delgado,jaimefung1159@gmail.com,213124356,Software,700000.0,San Jose
+5,Daniel,Fung,Delgado,jesus@gmail.com,801280857,Telematica,300000.0,Escazu
